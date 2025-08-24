@@ -1,6 +1,6 @@
 # syntactic_complexity
 
-# 의존 구문 분석.ipynb
+## 의존 구문 분석.ipynb
 - ETRI 구문 분석 API를 사용하기 위한 코드
 ETRI 구문 분석 API를 사용할 수 있는 하나의 예시로 작성해 놓은 것이니 참고 및 수정하여 사용할 것
 4번째 줄의 text에 직접 text를 입력하거나, 파일의 형식에 맞게 text를 읽어 오도록 할 것.
