@@ -1,4 +1,4 @@
-# syntactic_complexity
+# Automatic Syntactic Complexity Analyzer for Korean
 
 ## 의존 구문 분석.ipynb
 - ETRI 구문 분석 API를 사용하기 위한 코드.
